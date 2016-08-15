@@ -1,4 +1,5 @@
-/*STACK PUSH() AND POP() IMPLEMENTATION USING ARRAYS*/
+// Email : mdkamrulhasan989@gmail.com
+
 #include <stdio.h>
 #define MAX 5
 int top,status;
